@@ -7,8 +7,8 @@ const Setting = () => {
 
         <div className='flex relative top-[76px]'>
             <div className='mr-[20px]'>
-                <img src="public\Ellipse 114@2x.png" alt="" className='w-[76px] h-[76px] relative'/> 
-                <img src="public\Group 1585.svg" alt="" className='w-[21px] h-[23px] relative top-[-24px] left-[54px]'/>
+                <img src="/Ellipse 114@2x.png" alt="" className='w-[76px] h-[76px] relative'/> 
+                <img src="/Group 1585.svg" alt="" className='w-[21px] h-[23px] relative top-[-24px] left-[54px]'/>
             </div>
 
             <div>
